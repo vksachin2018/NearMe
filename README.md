@@ -198,7 +198,8 @@ significance continue to inspire awe and reverence, making it a cherished landma
 </HTML>
 ```
 ## OUTPUT
-![Your paragraph text](https://github.com/vksachin2018/NearMe/assets/149366019/7e0b2a4b-d3a4-464a-8d60-7e618b1e51b6)
+![Uploading Your paragraph text.jpg…]()
+
 ![Screenshot 2024-04-20 234820](https://github.com/Sushiendar/NearMe/assets/159266287/b0f98ad6-5c67-4559-a15f-cd8a8a128345)
 ![Screenshot 2024-04-20 234856](https://github.com/Sushiendar/NearMe/assets/159266287/807b4813-eeac-4a38-acdf-2b0cd3d50089)
 ![Screenshot 2024-04-20 235016](https://github.com/Sushiendar/NearMe/assets/159266287/a89341a5-b609-4e76-ab57-8872841869d4)
